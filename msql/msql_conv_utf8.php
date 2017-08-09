@@ -1,7 +1,7 @@
 <?
 $dbhost = 'localhost';
-$dbuser = 'root';
-$dbpass = 'cooler';
+$dbuser = '*****';
+$dbpass = '*****';
 $dbname = 'convert';
 
 header('Content-type: text/plain');
