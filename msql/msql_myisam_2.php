@@ -2,8 +2,8 @@
 $db = array();
 
 $db['host'] = "localhost";
-$db['user'] = "root";
-$db['password'] = "cooler";
+$db['user'] = "*****";
+$db['password'] = "*****";
 $db['database'] = "convert";
 
 header('Content-type: text/plain');
