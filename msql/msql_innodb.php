@@ -1,8 +1,8 @@
 <?
 
 $host = 'localhost';
-$log = 'root';
-$pass = 'cooler';
+$log = '*****';
+$pass = '*****';
 $db = 'convert';
 
 header('Content-type: text/plain');
