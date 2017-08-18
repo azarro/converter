@@ -1,7 +1,7 @@
 <?
 
 $host = 'localhost';
-$log = '*****';
+$user = '*****';
 $pass = '*****';
 $db = 'convert';
 
